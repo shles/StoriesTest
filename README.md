@@ -1,4 +1,5 @@
-### Stories sample app
+# Stories sample app
+## Notes
 Showcases the feature of viewing stories in the social app
 
 I 've decided to go over a broad set of feature.
@@ -10,3 +11,8 @@ You can like each story and it is saved using Swift Data
 When you open and scroll the s they marked as "viewed"
 
 I prioritized "vertical slice" of features and put less attention to individual interactions and transitions. 
+
+### Libraries
+I did not use any external libraries but the first one I would use would be image caching solution like SDWebImage. 
+
+
